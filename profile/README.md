@@ -96,11 +96,13 @@
         <img src="https://img.shields.io/badge/jjwt-000000?style=flat-square&logo=&logoColor=white"/>
       </td>
       <td valign="top" align="center">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/transformers-FB542B?style=flat-square&logo=&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/huggingface-FFCA2B?style=flat-square&logo=&logoColor=black"/><br>
-        <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/><br>
+          
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+        <br>
+        ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)<br>
         <img src="https://img.shields.io/badge/langchain-000000?style=flat-square&logo=&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/langgraph-000000?style=flat-square&logo=&logoColor=blue"/>
       </td>
     </tr>
   </tbody>
