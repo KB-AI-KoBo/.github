@@ -100,7 +100,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
         <br>
         ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)<br>
-        <img src="https://img.shields.io/badge/langchain-000000?style=flat-square&logo=&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green"/>
         <br>
         <img src="https://img.shields.io/badge/langgraph-000000?style=flat-square&logo=&logoColor=blue"/>
       </td>
